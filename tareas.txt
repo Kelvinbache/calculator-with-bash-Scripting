@@ -1,0 +1,3 @@
+
+2) hacer una ecript que muestre una guia, sobre esta calculadora 
+4) arreglar el error al no poner una dato

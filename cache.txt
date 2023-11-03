@@ -1,0 +1,9 @@
+result of operation: -3
+result of operation: -3
+result of operation: 4
+result of operation: 10
+1 - 2 resultado de una resta: -1
+operacion: 2 - 5 resultado: -3
+operacion: 5 - 5 resultado: 10
+operacion: 5 + 9 resultado: 14
+operacion: 1 + 2 resultado: 3
